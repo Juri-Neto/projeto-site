@@ -3,3 +3,11 @@ Na branch "main" criamos a estrutura principal do projeto, quando adicionar feat
 Para alterações pontuais, não commit no main. Faça branches. 
 
 Neste projeto será criado duas branches para equipe ou você, uma branch para conteúdo (HTML) e design (CSS).
+
+A ramificação com as branches é muito útil principalmente para projetos que estão sendo desenvolvidos por equipes diferentes. Então cada uma fica responsável por sua parte sem fazer alterações em branches de outras equipes e sem alterar a branch main. No final podendo fazer um Merge das branches, adicionando as modificações feitas por cada um de forma segura para a branch main.
+
+Para criar branches: Branch -> New Branch
+
+Para fazer merge na branch: Branch -> Merge into current branch -> selecionar qual branch para fazer o merge na branch atual
+
+Caso ocorra conflito durante o Merge, como ocorreu no exemplo do professor com Títulos do site diferente, o GitHub Desktop permite avaliar as mudanças e decidir qual você vai aceitar e atualizar ou manter.
