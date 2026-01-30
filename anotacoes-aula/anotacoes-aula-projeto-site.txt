@@ -1,0 +1,5 @@
+Na branch "main" criamos a estrutura principal do projeto, quando adicionar features e solucionar problemas criar as outras branches para manter estável a branch principal do software.
+
+Para alterações pontuais, não commit no main. Faça branches. 
+
+Neste projeto será criado duas branches para equipe ou você, uma branch para conteúdo (HTML) e design (CSS).
